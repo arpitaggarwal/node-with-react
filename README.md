@@ -1,5 +1,22 @@
 # Steps to run an application
 
+1. Move to `backend` directory and execute command
+
+```
+npm install
+npm start
+```
+
+Above command will start node server on port `3050`
+
+2. Move to `client` directory and execute command
+```
+npm install
+npm start
+```
+
+Above command will start UI on port `3000`
+
 ## Import Data from CSV to MongoDB
 
 ```
