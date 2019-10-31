@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
-    "csv-parse": "^1.2.0",
+    "csv-parse": "^4.4.6",
     "express": "^4.15.2",
     "mongodb": "^3.2.6",
     "properties-reader": "0.0.16"
